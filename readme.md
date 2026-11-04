@@ -12,3 +12,4 @@ Usei if / else nos sítios onde o jogo tem de escolher obrigatoriamente entre du
 
 Usei if simples (sem else) para coisas que só acontecem quando uma condição se confirma e não fazem rigorosamente nada nos outros casos — como criar alvos a cada 60 frames, apagar o alvo e tocar o som só quando o clique acerta mesmo na bola, ou limpar da memória os rastros antigos e os efeitos que já ficaram transparentes.
 
+...
